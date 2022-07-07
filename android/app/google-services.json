@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652786701620",
+    "project_id": "face-recognition-auth-e03ff",
+    "storage_bucket": "face-recognition-auth-e03ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652786701620:android:ffac5f5e957fa63de20161",
+        "android_client_info": {
+          "package_name": "com.iscae.face_auth_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652786701620-un193c07pk9n0piqhvb4cg9jltedpt1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL-HqdxQMzvlUBv6DjO2Ztz2xoZDgKqG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652786701620-un193c07pk9n0piqhvb4cg9jltedpt1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
